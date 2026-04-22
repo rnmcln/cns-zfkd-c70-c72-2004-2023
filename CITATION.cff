@@ -1,0 +1,75 @@
+cff-version: 1.2.0
+title: >-
+  Reproducibility package: Twenty Years of Central Nervous System
+  Tumours in Germany (ICD-10-GM C70-C72, 2004-2023)
+message: >-
+  If you use this software or the associated analyses, please cite the
+  paper (preferred) and this software package.
+type: software
+authors:
+  - given-names: Aaron
+    family-names: Lawson McLean
+    email: alawsonmclean@gmail.com
+    affiliation: >-
+      Department of Neurosurgery, Jena University Hospital,
+      Friedrich Schiller University Jena, Germany
+    orcid: 'https://orcid.org/0000-0000-0000-0000'
+  - given-names: Johannes
+    family-names: Kahr
+    affiliation: >-
+      Jena University Hospital, Friedrich Schiller University Jena, Germany
+  - given-names: Thomas
+    family-names: Ernst
+    affiliation: >-
+      Jena University Hospital, Friedrich Schiller University Jena, Germany
+  - given-names: Carl
+    family-names: Crodel
+    affiliation: >-
+      Jena University Hospital, Friedrich Schiller University Jena, Germany
+  - given-names: Marc A.
+    family-names: Kamp
+    affiliation: >-
+      Jena University Hospital, Friedrich Schiller University Jena, Germany
+  - given-names: Christian
+    family-names: Senft
+    affiliation: >-
+      Department of Neurosurgery, Jena University Hospital,
+      Friedrich Schiller University Jena, Germany
+repository-code: >-
+  https://github.com/rnmcln/cns-zfkd-c70-c72-2004-2023
+license: MIT
+version: v2.0-rev
+date-released: '2026-04-23'
+keywords:
+  - cancer registry
+  - epidemiology
+  - central nervous system tumours
+  - ICD-10-GM C70-C72
+  - Germany
+  - ZfKD
+  - age-standardised incidence
+  - age-standardised mortality
+  - relative survival
+  - prevalence
+preferred-citation:
+  type: article
+  title: >-
+    Twenty Years of Central Nervous System Tumours in Germany: A
+    Population-Based Descriptive Analysis of Incidence, Mortality,
+    Survival, and Prevalence (2004-2023)
+  authors:
+    - given-names: Aaron
+      family-names: Lawson McLean
+    - given-names: Johannes
+      family-names: Kahr
+    - given-names: Thomas
+      family-names: Ernst
+    - given-names: Carl
+      family-names: Crodel
+    - given-names: Marc A.
+      family-names: Kamp
+    - given-names: Christian
+      family-names: Senft
+  year: 2026
+  journal: Journal of Cancer Research and Clinical Oncology
+  status: submitted

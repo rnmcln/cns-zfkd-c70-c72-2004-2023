@@ -1,0 +1,37 @@
+{
+  "title": "Reproducibility package: Twenty Years of Central Nervous System Tumours in Germany (ICD-10-GM C70-C72, 2004-2023)",
+  "description": "Code, aggregate ZfKD DatenBrowser exports, tidy tables, figures, audit trail and peer-review logs supporting the paper 'Twenty Years of Central Nervous System Tumours in Germany' submitted to the Journal of Cancer Research and Clinical Oncology (2026).",
+  "version": "v2.0-rev",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "cancer registry",
+    "epidemiology",
+    "central nervous system tumours",
+    "ICD-10-GM",
+    "C70-C72",
+    "Germany",
+    "ZfKD",
+    "age-standardised incidence",
+    "age-standardised mortality",
+    "relative survival",
+    "Ederer II",
+    "prevalence",
+    "APC",
+    "Mann-Kendall",
+    "Newey-West"
+  ],
+  "creators": [
+    {"name": "Lawson McLean, Aaron", "affiliation": "Jena University Hospital, Friedrich Schiller University Jena"},
+    {"name": "Kahr, Johannes",       "affiliation": "Jena University Hospital, Friedrich Schiller University Jena"},
+    {"name": "Ernst, Thomas",        "affiliation": "Jena University Hospital, Friedrich Schiller University Jena"},
+    {"name": "Crodel, Carl",         "affiliation": "Jena University Hospital, Friedrich Schiller University Jena"},
+    {"name": "Kamp, Marc A.",        "affiliation": "Jena University Hospital, Friedrich Schiller University Jena"},
+    {"name": "Senft, Christian",     "affiliation": "Jena University Hospital, Friedrich Schiller University Jena"}
+  ],
+  "language": "eng",
+  "related_identifiers": [
+    {"identifier": "https://github.com/rnmcln/cns-zfkd-c70-c72-2004-2023", "relation": "isSupplementTo", "resource_type": "software"}
+  ]
+}

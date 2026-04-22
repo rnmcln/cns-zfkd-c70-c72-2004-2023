@@ -1,0 +1,12 @@
+Letzte Aktualisierung: 19.11.2025
+Überleben, Relative Rate in Deutschland in Prozent
+Gewählte Filter:
+Altersgruppen: Rohe Rate - 15 und Älter, Altersstandardisiert - 15 und Älter, 15 - 44, 45 - 54, 55 - 64, 65 - 74, 75 und älter
+Diagnose: Zentrales Nervensystem (C70-C72)
+Geschlecht: männlich
+Intervall-Länge in Jahren: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Jahre: 2007-2008, 2009-2010, 2011-2012, 2013-2014, 2015-2016, 2017-2018, 2019-2020, 2021-2023
+* : Keine sinnvolle Auswertung möglich aufgrund zu geringer Fallzahlen.
+x : Keine sinnvolle Kombination, beispielsweise bei einer geschlechtsspezifischen Diagnose.
+<5 : Es sind weniger als 5 Fälle registriert. Aus Datenschutzgründen wird die genaue Anzahl nicht publiziert.
+"Zentrum für Krebsregisterdaten im Robert Koch-Institut: Datenbankabfrage mit Schätzung der Inzidenz, Prävalenz und des Überlebens von Krebs in Deutschland auf Basis der epidemiologischen Landeskrebsregisterdaten. Mortalitätsdaten bereitgestellt vom Statistischen Bundesamt. www.krebsdaten.de/abfrage, Letzte Aktualisierung: 19.11.2025, Abrufdatum: (Datum der Abfrage)"

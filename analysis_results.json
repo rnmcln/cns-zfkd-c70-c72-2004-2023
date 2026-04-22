@@ -1,0 +1,131 @@
+{
+  "_meta": {
+    "_schema_version": "v2.0-rev",
+    "_date": "2026-04-23",
+    "_primary_inference_incidence": "Newey-West HAC(1)",
+    "_primary_inference_mortality": "OLS (DW in acceptable range; HAC(1) reported for completeness)",
+    "_software": {
+      "python": "3.11",
+      "statsmodels": "0.14.2",
+      "pymannkendall": "1.4.3 (original_test, tau-a)",
+      "scipy": "1.13.x (theilslopes)"
+    },
+    "_notes": "MK_Z shown is tau-a (original_test). MK_Z_taub_aux reported for transparency. HAC lag chosen per pre-specification (Newey-West, lag 1)."
+  },
+  "inc_asr_weiblich": {
+    "linear_slope": -0.0247,
+    "linear_se": 0.0099,
+    "linear_r2": 0.2593,
+    "linear_p": 0.021847,
+    "log_slope": -0.004387,
+    "APC": -0.44,
+    "APC_CI95": [
+      -0.78,
+      -0.1
+    ],
+    "APC_p": 0.021038,
+    "MK_Z": -2.236,
+    "MK_p": 0.025364,
+    "MK_Z_taub_aux": -2.357,
+    "MK_p_taub_aux": 0.018432,
+    "TheilSen_slope": -0.0333,
+    "TheilSen_CI95": [
+      -0.0429,
+      0.0
+    ],
+    "APC_HAC_CI95": [
+      -0.89,
+      0.01
+    ],
+    "APC_HAC_p": 0.058,
+    "durbin_watson": 0.96,
+    "HAC_lag": 1
+  },
+  "inc_asr_männlich": {
+    "linear_slope": -0.0291,
+    "linear_se": 0.0097,
+    "linear_r2": 0.3333,
+    "linear_p": 0.007694,
+    "log_slope": -0.003684,
+    "APC": -0.37,
+    "APC_CI95": [
+      -0.61,
+      -0.13
+    ],
+    "APC_p": 0.007652,
+    "MK_Z": -2.518,
+    "MK_p": 0.011803,
+    "MK_Z_taub_aux": -2.648,
+    "MK_p_taub_aux": 0.008089,
+    "TheilSen_slope": -0.0333,
+    "TheilSen_CI95": [
+      -0.05,
+      0.0
+    ],
+    "APC_HAC_CI95": [
+      -0.77,
+      0.03
+    ],
+    "APC_HAC_p": 0.068,
+    "durbin_watson": 0.79,
+    "HAC_lag": 1
+  },
+  "mort_asr_weiblich": {
+    "linear_slope": -0.0214,
+    "linear_se": 0.004,
+    "linear_r2": 0.6138,
+    "linear_p": 4.4e-05,
+    "log_slope": -0.005404,
+    "APC": -0.54,
+    "APC_CI95": [
+      -0.74,
+      -0.34
+    ],
+    "APC_p": 4.4e-05,
+    "MK_Z": -3.583,
+    "MK_p": 0.000339,
+    "MK_Z_taub_aux": -3.786,
+    "MK_p_taub_aux": 0.000153,
+    "TheilSen_slope": -0.0222,
+    "TheilSen_CI95": [
+      -0.0312,
+      -0.0111
+    ],
+    "APC_HAC_CI95": [
+      -0.81,
+      -0.27
+    ],
+    "APC_HAC_p": 0.00012,
+    "durbin_watson": 2.28,
+    "HAC_lag": 1
+  },
+  "mort_asr_männlich": {
+    "linear_slope": -0.0133,
+    "linear_se": 0.0054,
+    "linear_r2": 0.2509,
+    "linear_p": 0.024484,
+    "log_slope": -0.002253,
+    "APC": -0.23,
+    "APC_CI95": [
+      -0.4,
+      -0.04
+    ],
+    "APC_p": 0.024831,
+    "MK_Z": -2.141,
+    "MK_p": 0.032284,
+    "MK_Z_taub_aux": -2.273,
+    "MK_p_taub_aux": 0.023034,
+    "TheilSen_slope": -0.0133,
+    "TheilSen_CI95": [
+      -0.025,
+      0.0
+    ],
+    "APC_HAC_CI95": [
+      -0.42,
+      -0.02
+    ],
+    "APC_HAC_p": 0.029,
+    "durbin_watson": 1.42,
+    "HAC_lag": 1
+  }
+}

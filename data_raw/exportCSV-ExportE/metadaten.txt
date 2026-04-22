@@ -1,0 +1,11 @@
+Letzte Aktualisierung: 19.11.2025
+Inzidenz, Fallzahlen in Deutschland
+Gewählte Filter:
+Altersgruppen: 15 - 85+
+Diagnose: Zentrales Nervensystem (C70-C72)
+Geschlecht: männlich, weiblich
+Jahre: 1999 - 2023
+* : Keine sinnvolle Auswertung möglich aufgrund zu geringer Fallzahlen.
+x : Keine sinnvolle Kombination, beispielsweise bei einer geschlechtsspezifischen Diagnose.
+<5 : Es sind weniger als 5 Fälle registriert. Aus Datenschutzgründen wird die genaue Anzahl nicht publiziert.
+"Zentrum für Krebsregisterdaten im Robert Koch-Institut: Datenbankabfrage mit Schätzung der Inzidenz, Prävalenz und des Überlebens von Krebs in Deutschland auf Basis der epidemiologischen Landeskrebsregisterdaten. Mortalitätsdaten bereitgestellt vom Statistischen Bundesamt. www.krebsdaten.de/abfrage, Letzte Aktualisierung: 19.11.2025, Abrufdatum: (Datum der Abfrage)"
