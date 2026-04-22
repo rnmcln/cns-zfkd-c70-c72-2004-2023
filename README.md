@@ -74,7 +74,7 @@ and OLS and HAC(1) intervals concur.
 ## Data provenance
 
 - **ZfKD DatenBrowser** (Robert Koch Institute, Berlin) — aggregate
-  open-access tabulations retrieved **31 January 2025** from
+  open-access tabulations retrieved **March 2026** from
   <https://www.krebsdaten.de>. No individual-level data.
 - **Eurostat** — `hlth_cd_aro` (deaths) and `demo_pjangroup` (population)
   for external cross-validation and denominators (retrieved March 2026).
